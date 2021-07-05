@@ -1,3 +1,75 @@
 {
     "python.pythonPath": "C:\\Users\\Penguin\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+    
 }
+{
+    "auto-close-tag.fullMode": true,
+    "blade.format.enable": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.formatOnPaste": true,
+    "editor.lineHeight": 32,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.scrollBeyondLastLine": false,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+      "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.advanced.menus": {
+      "editorContext": {
+        "blame": false,
+        "copy": false,
+        "details": false,
+        "fileDiff": false,
+        "history": false,
+        "lineDiff": false,
+        "remote": false
+      },
+      "explorerContext": {
+        "fileDiff": false
+      }
+    },
+    "gitlens.advanced.messages": {
+      "suppressResultsExplorerNotice": true
+    },
+    "gitlens.blame.heatmap.location": "left",
+    "gitlens.codeLens.scopes": ["document"],
+    "gitlens.gitExplorer.files.compact": false,
+    "gitlens.hovers.currentLine.details": false,
+    "gitlens.statusBar.command": "gitlens.showQuickFileHistory",
+    "guides.active.color.dark": "rgba(120, 120, 120, 0.75)",
+    "guides.normal.style": "none",
+    "guides.stack.enabled": false,
+    "php.suggest.basic": false,
+    "php.validate.run": "one",
+    "php-cs-fixer.onsave": true,
+    "python.formatting.provider": "yapf",
+    // "python.venvPath": "~/.pyenv",
+    "sublimeTextKeymap.promptV3Features": true,
+    "sync.askGistName": false,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": false,
+    "sync.gist": "你的 GIST 位置",
+    "sync.host": "",
+    "sync.lastDownload": "2018-03-22T02:34:44.923Z",
+    "sync.lastUpload": "2018-03-24T10:12:21.567Z",
+    "sync.pathPrefix": "",
+    "sync.quietSync": true,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.lineHeight": 1.5,
+    "window.openFilesInNewWindow": "on",
+    "window.zoomLevel": -0.5,
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme"
+  }
